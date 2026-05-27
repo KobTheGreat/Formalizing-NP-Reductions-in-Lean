@@ -1,4 +1,4 @@
-# Formalising NP-Completeness Reductions in Lean 4
+# Formalizing NP-Completeness Reductions in Lean 4
 
 **CS 294 · UC Berkeley · Spring 2026 · Final Project**
 
